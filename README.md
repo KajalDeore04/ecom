@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Application
 
-Welcome to the ultimate e-commerce experience! This full-stack application has everything you'd want for a slick, user-friendly shopping platform. Built with a powerful backend (Node.js, Express, and MongoDB) and a polished frontend using EJS and Tailwind CSS, it's designed for both users and admins alike to enjoy a seamless online shopping experience. Let’s dive into what it has to offer! 🎉
+Welcome to the ultimate e-commerce experience! This MERN-stack project has everything you'd want for a slick, user-friendly shopping platform. Built with a powerful backend (Node.js, Express, and MongoDB) and a polished frontend using EJS and Tailwind CSS, it's designed for both users and admins alike to enjoy a seamless online shopping experience. Let’s dive into what it has to offer! 🎉
 
 ## ✨ Features
 
@@ -21,12 +21,6 @@ Welcome to the ultimate e-commerce experience! This full-stack application has e
 - **File Upload:** Multer
 - **Other Cool Tools:** Cookie-parser, Express-session, Connect-flash
 
-## 🛠 Prerequisites
-
-To get started, make sure you have the following:
-- Node.js
-- MongoDB
-- npm (or yarn)
 
 ## 🚀 Installation Guide
 
@@ -52,20 +46,10 @@ JWT_KEY=your_jwt_secret
 EXPRESS_SESSION_SECRET=your_session_secret
 ```
 
-### 4. Configure MongoDB Connection
-
-In `config/default.json`, add your MongoDB URI:
-
-```json
-{
-  "MONGODB_URI": "your_mongodb_connection_string"
-}
-```
-
-### 5. Start the App
+### 4. Start the App
 
 ```bash
-npm start
+nodemon app.js
 ```
 
 Once it's running, head over to [http://localhost:3000](http://localhost:3000) and start exploring!
@@ -85,4 +69,4 @@ Here's a quick breakdown:
 
 ## 📬 Questions?
 
-Reach out via [your GitHub profile](https://github.com/Kajal-Deore) if you have any questions or issues. Happy coding! 🎉
+Reach out via [your GitHub profile](https://github.com/Kajal-Deore) or [your Linkedin profile](https://www.linkedin.com/in/kajal-deore) if you have any questions or issues. Happy coding! 🎉
