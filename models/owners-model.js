@@ -5,10 +5,10 @@ const ownerSchema = mongoose.Schema({
         type: String,
         minLength : 3,
         trim : true,
+        required : true
     },
     email: String,
     password: String,
-    isadmin : Boolean,
     picture : String,
     gstin : String,
     products : {
