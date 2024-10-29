@@ -1,6 +1,3 @@
-Here’s your README file content for `README.md`:
-
-```markdown
 # 🛍️ E-Commerce Application
 
 Welcome to the ultimate e-commerce experience! This full-stack application has everything you'd want for a slick, user-friendly shopping platform. Built with a powerful backend (Node.js, Express, and MongoDB) and a polished frontend using EJS and Tailwind CSS, it's designed for both users and admins alike to enjoy a seamless online shopping experience. Let’s dive into what it has to offer! 🎉
@@ -89,4 +86,3 @@ Here's a quick breakdown:
 ## 📬 Questions?
 
 Reach out via [your GitHub profile](https://github.com/Kajal-Deore) if you have any questions or issues. Happy coding! 🎉
-```
